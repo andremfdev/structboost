@@ -515,6 +515,8 @@ footer .second-area a:hover {
 
   .s-digital h3 {
     font-size: 2.8rem;
+    width: 100%;
+    max-width: 33.6rem;
   }
 
   .s-art-front {
